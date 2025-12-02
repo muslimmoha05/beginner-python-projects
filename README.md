@@ -103,5 +103,3 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 ✔ A CONTRIBUTING.md
 ✔ A CODE-OF-CONDUCT.md
 ✔ A folder structure
-
-Just tell me **“create game readme”** or whatever you want next!

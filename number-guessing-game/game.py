@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import random 
 
 print("Hi, Welcom to to the Number Guessing Game. Enjoy the game while improving you skills!")
@@ -61,6 +60,3 @@ while play_again == "yes":
     play_again = input("Do you want to play again? (yes/no): ").lower()
     
 print("Better luck next time")
-=======
-
->>>>>>> 641b259137337f4c958f621a153c73713e142af1
