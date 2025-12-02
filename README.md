@@ -99,20 +99,6 @@ You can add:
 
 This project is licensed under the **MIT License** — free to use, modify, and share.
 
----
-
-## ⭐ Support the Project
-
-If you find this useful, feel free to:
-
-* ⭐ Star the repository
-* 🍴 Fork it
-* 🧑‍🤝‍🧑 Share it with beginners
-
----
-
-If you want, I can also generate:
-
 ✔ A README for the **number-guessing-game**
 ✔ A CONTRIBUTING.md
 ✔ A CODE-OF-CONDUCT.md
