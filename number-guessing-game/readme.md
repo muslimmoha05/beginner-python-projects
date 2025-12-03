@@ -94,7 +94,6 @@ Using `try/except` to prevent crashes when non-numeric input is entered.
 
 If you want to extend the game, here are beginner-friendly ideas:
 
-* Difficulty levels (Easy/Normal/Hard)
 * Randomized number of attempts
 * Scoring system
 * High-score saving using a text file

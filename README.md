@@ -38,9 +38,7 @@ This repository is perfect for:
 | Project Name                  | Folder                  | Description                                                                                                                                                           |
 | ----------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Number Guessing Game**      | `number-guessing-game/` | A game where the computer picks a secret number and the player must guess it with limited attempts. Includes input validation, hints, replay option, and clean logic. |
-| *(More projects coming soon)* | —                       | —                                                                                                                                                                     |
-
-As you add more projects, update this table.
+| *(More projects coming soon)* | —                       | —                                                                                                                                                                     
 
 ---
 
@@ -50,7 +48,7 @@ As you add more projects, update this table.
 2. Clone this repository:
 
    ```sh
-   git clone https://github.com/your-username/beginner-python-projects
+   git clone https://github.com/muslimmoha05/beginner-python-projects.git
    ```
 3. Open a project folder
 4. Run the script:
@@ -98,8 +96,3 @@ You can add:
 ## 📝 License
 
 This project is licensed under the **MIT License** — free to use, modify, and share.
-
-✔ A README for the **number-guessing-game**
-✔ A CONTRIBUTING.md
-✔ A CODE-OF-CONDUCT.md
-✔ A folder structure
